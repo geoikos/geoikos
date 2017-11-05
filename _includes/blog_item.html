@@ -1,0 +1,11 @@
+<article>
+	<h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	<div class="post-meta">
+		<div class="post-date">
+      {{ post.date | date: "%d %B %Y" }} <span class="post-autor">Autor: {{ post.author }}</span>
+	</div>
+	</div>
+	<div class="post-content">
+		{{ post.content }}
+	</div>
+</article>

@@ -1,0 +1,28 @@
+--- 
+layout: default 
+permalink: blog.html 
+title: Blogs y Noticias 
+---
+<div class="hero hero-3" id="hero-cs">
+	<div class="wrap">
+		<div class="content corners">
+			<!--<h2>
+				<q>Falta mucho por hacer...<br>
+					...pero estamos trabajando</q>
+			</h2>
+			<p>
+				Pronto podrás enterarte de novedades en la agrupación, tutoriales y más, a través de nuestro blog. Mientras terminamos de
+				hacer los ajustes, mantente informado a través de nuestras cuentas en redes sociales:
+			</p>-->
+			{% for post in site.posts %} {% if post.categories contains 'blog' %}
+			 {% include blog_item.html %} 
+			{% endif %} {% endfor %}
+			<div class="sm sm1">
+				<a href="https://twitter.com/OikosUSB"><span class="icon-twitter"></span></a>
+				<a href="https://facebook.com/OikosUSB"><span class="icon-facebook"></span></a>
+				<a href="https://youtube.com/user/GEOIKOS"><span class="icon-youtube"></span></a>
+				<a href="https://instagram.com/OikosUSB"><span class="icon-instagram"></span></a>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,81 @@
+#hero-index {
+	background: rgba(0,0,0,.25);
+	position: relative;
+	z-index:0;
+	.jumbotron {
+		background: transparent;
+		width: 100%;
+		span {
+			letter-spacing: .1em;
+		}
+	}
+}
+.about {
+	padding: 4em 0;
+	text-align: center;
+	.wrap {
+		h2  {
+			padding-bottom: 24px;
+		}
+		p {
+			padding: 0 2em;
+			line-height: 1.7em;
+			max-width: 720px;
+			margin: auto;
+			margin-bottom: 2em;
+		}
+	}
+}
+.courses {
+	//background: linear-gradient(to bottom right,#00d4aa,#00d47f,#00d455);
+	background: url(../img/bg-courses.png) no-repeat center center;
+	background-size: cover;
+	padding: 2em 0px;
+	.wrap {		
+		h2 {
+			font-size: 3em;
+			color: #fff;
+			text-shadow: 2px 2px #0b1642;
+			text-align: right;
+			margin-bottom: 36px;
+		}
+	}
+}
+@media screen and (min-width:700px) {
+    /* ===== MODULES ===== */
+    //other stuff
+    #hero-index {
+    	.jumbotron {
+    		width: 90%;
+    		span {
+    			letter-spacing: .2em;
+    		}
+    	}
+    }
+    .courses {
+    	.wrap {
+    		h2 {
+    			text-align: center;
+    			font-size: 4em;
+    		}
+    		.cards {
+    			display: flex;
+    			.card-2 {
+    				width: 30%;
+    				margin-right: 5%;
+    				height: 382px;
+    				position: relative;
+    				&:last-child {
+    					margin-right: 0;
+    				}
+    				.btn {
+    					position: absolute;
+    					bottom: 2em;
+    					left: 50%;
+    					transform: translateX(-50%);
+    				}
+    			}
+    		}
+    	}
+    }
+}

@@ -1,0 +1,15 @@
+<article>
+    <h3>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h3>
+    
+    <div class="event-content">
+      {{ post.content }}
+    </div>
+
+    <div class="event-date">
+        {{ post.date | date_to_string }}
+    </div>
+</article>

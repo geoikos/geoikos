@@ -1,0 +1,28 @@
+---
+layout: default
+permalink: n-miembros.html
+title: Miembros
+---
+	<div class="wrap">
+		<div class="first-el content">
+			<h1>Nuestros miembros</h1>
+			<p>
+				
+			</p>
+		</div>
+		<div class="cards">
+		{% for miembro in site.data.miembros %}
+			<div class="card corners">
+				<div class="card-img">
+					<img src="{{ miembro.picture }}" alt="">
+				</div>
+				<div class="card-info">
+					<h3>{{ miembro.name }}</h3>
+					<p>
+						{{ miembro.carrera }}
+					</p>
+				</div>
+			</div>
+		{% endfor %}
+		</div>
+	</div>

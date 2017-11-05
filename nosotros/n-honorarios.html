@@ -1,0 +1,28 @@
+---
+layout: default
+permalink: n-honorarios.html
+title: Miembros Honorarios
+---
+	<div class="wrap">
+		<div class="first-el content">
+			<h1>Miembros Honorarios</h1>
+			<p>
+				Son miembros honorarios, aquellas personas que han reunido suficientes méritos dentro del campo del excursionismo y montañismo o han hecho colaboraciones importantes a la agrupación y que el GEO distinga como tales, por decisión de la Asamblea.
+			</p>
+		</div>
+		<div class="cards">
+		{% for honorario in site.data.honorarios %}
+			<div class="card corners">
+				<div class="card-img">
+					<img src="{{ site.url }}/{{ honorario.picture }}" alt="">
+				</div>
+				<div class="card-info">
+					<h3>{{ honorario.name }}</h3>
+					<p>
+						{{ honorario.carrera }}
+					</p>
+				</div>
+			</div>
+		{% endfor %}
+		</div>
+	</div>

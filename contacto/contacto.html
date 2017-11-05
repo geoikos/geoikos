@@ -1,0 +1,72 @@
+---
+layout: default
+permalink: contacto.html
+title: Contacto
+---
+	<div class="wrap">
+		<div class="first-el content">
+			<h1>Contacto</h1>
+			<div class="map">
+				<iframe src="https://www.google.com/maps/d/embed?mid=zsoo2FUUkmzU.kS7HDiIMgbTg" width="100%" height="280"></iframe>
+			</div>
+			<div class="contact-content">
+				<div class="contact-info half">
+					<p>
+						La sede del Oikos está ubicada en la planta baja del edificio Casa del Estudiante, cerca de la entrada principal de la Universidad Simón Bolívar.
+					</p>
+					<p>
+						Si tienes dudas, quieres hacer algún curso o te interesa unirte a la agrupación puedes ir a las asambleas, se realizan semanalmente los días viernes en la sede a las 4 pm.
+					</p>
+					<p>
+						Además puedes comunicarte con nosotros a través de nuestras cuentas en redes sociales y nuestro <strong><a href="mailto:geoikosweb@gmail.com">correo electrónico</a></strong>.
+					</p>
+					<div class="sm sm1">
+						<a href="https://twitter.com/OikosUSB"><span class="icon-twitter"></span></a>
+						<a href="https://facebook.com/OikosUSB"><span class="icon-facebook"></span></a>
+						<a href="https://youtube.com/user/GEOIKOS"><span class="icon-youtube"></span></a>
+						<a href="https://instagram.com/OikosUSB"><span class="icon-instagram"></span></a>
+					</div>
+				</div><!--
+
+				--><div class="contact-form half">
+					<form class="form" action="">
+						<label for="">Nombre</label>
+						<input id="name" type="text" class="in corners" placeholder="¿Cómo te llamas?">
+						<label for="">Correo</label>
+						<input id="email" type="text" class="in corners" placeholder="¿A qué correo enviamos la respuesta?">
+						<label for="">Mensaje</label>
+						<textarea id="message" class="in corners" name="" id="" cols="30" rows="10" placeholder="¿Qué quieres decirnos?"></textarea>
+						<input id="send-email" type="button" class="btn blue corners" value="Enviar">
+					</form>
+					<div class="msg">
+						<p></p>
+					</div>
+				</div>
+				<script>
+					$('#send-email').click(function() {
+						$.post('https://minimal-send-email.herokuapp.com/email/', {
+						  code: 'oikos-app',
+						  email: $('#email').val(),
+						  name: $('#name').val(),
+						  subject: $('#subject').val(),
+						  message: $('#message').val()
+						}).done(function (data) {
+						  $('#email').val('');
+						  $('#name').val('');
+						  $('#subject').val('');
+						  $('#message').val('');
+						  //msg
+						  $('.form').hide('fast');
+						  $('.msg p').html('Tu mensaje ha sido enviado con éxito').addClass('ok');
+						  $('.msg').fadeIn('slow');
+						}).fail(function (response) {
+						  //msg
+						  $('.form').hide('fast');
+						  $('.msg p').html('Ha ocurrido un error. Recarga la página y vuelve a intentarlo').addClass('fail');
+						  $('.msg').fadeIn('slow');
+						});
+					});
+				</script>
+			</div>
+		</div>
+	</div>

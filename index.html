@@ -1,0 +1,34 @@
+--- 
+layout: default 
+title: Inicio 
+---
+
+<div class="hero-vl hero-vl-1" id="hero-vl-index">
+	<img src="https://images.unsplash.com/photo-1441716844725-09cedc13a4e7?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=153bd048c3c8ec81ae340a9c3614c503"
+	 alt="">
+	<div class="hero hero-1" id="hero-index">
+		<div class="jumbotron corners">
+			<h1><span>Desconéctate</span><br>Explora<br>Descubre</h1>
+		</div>
+	</div>
+</div>
+<section class="about">
+	<div class="wrap">
+		<h2>El Oikos</h2>
+		<p>
+			El Grupo Excursionista OIKOS (GEO) es una agrupación estudiantil de la Universidad Simón Bolívar, cuyo objetivo principal
+			es fomentar y practicar el deporte del excursionismo, montañismo y la escalada. Durante más de 41 años de trabajo ininterrumpido,
+			el GEO ha sido hogar de más de 2000 personas, ascendido más de 100 montañas y realizado más de 70 expediciones nacionales
+			e internacionales.
+		</p>
+		<a href="{{ site.url }}/cursos.html"><input type="button" class="btn blue corners" value="Conoce más"></a>
+	</div>
+</section>
+<section class="events">
+	<div class="wrap">
+		<h2>Eventos y Noticias</h2>
+		{% for post in site.posts %} {% if post.categories contains 'eventos' %} 
+		{% include evento_item.html %} 
+		{% endif %} {% endfor %}
+	</div>
+</section>
