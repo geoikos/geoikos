@@ -467,25 +467,6 @@ footer .toe span a:hover {
   font-size: 1.4em;
 }
 
-.hero-3{
-  min-height: 100vh;
-  max-height: 9980px;
-  padding: 27px 0px;
-  text-align: left;
-}
-.hero-3 .content {
-  position: relative;
-  top: 27px;
-}
-
-.hero-3 .content h3 {
-  margin-bottom: 1em;
-}
-
-.hero-3 .content .sm {
-  font-size: 1.4em;
-}
-
 .container {
   position: relative;
   z-index: -1;
@@ -748,5 +729,18 @@ article{
 
 .post-content{
   margin: auto;
-  padding: 6em 2em 4em 2em;
+  padding: 2em 2em 2em 2em;
+}
+
+.blog-content {
+  margin: auto;
+  background: #fff;
+  padding: 1em;
+  max-width: 840px;
+}
+
+.blog-back{
+   margin: auto;
+    width: 50%;
+    text-align: center;
 }

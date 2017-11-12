@@ -6,7 +6,11 @@
     {% include header.html %}
     <div class="wrap">
 		<div class="post-content">
-        {{ content }}
+            <h2>{{page.title}}</h2>
+            {{ content }}
+            <div class="blog-back">
+                <a href="{{ sire.url }}/blog"><input type="button" class="btn blue corners" value="Volver"></a>
+            </div>
 		</div>
     </div>
     {% include footer.html %}

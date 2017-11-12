@@ -1,6 +1,6 @@
-- name: Eliazar Suárez
-  picture: /assets/img/miembros/profile-eliazar.jpg
-  carrera: Cohorte '12 USB
+# - name: Eliazar Suárez
+#   picture: /assets/img/miembros/profile-eliazar.jpg
+#   carrera: Cohorte '12 USB
 
 - name: Verónica Machado
   picture: /assets/img/miembros/profile-veronica.jpg
@@ -18,13 +18,13 @@
   picture: /assets/img/miembros/profile-francisco.jpg
   carrera: Cohorte '11 USB
 
-- name: Rosalinda Rocca
-  picture: /assets/img/miembros/profile-rosalinda.jpg
-  carrera: UCV
+# - name: Rosalinda Rocca
+#   picture: /assets/img/miembros/profile-rosalinda.jpg
+#   carrera: UCV
 
-- name: Carlos Sivira
-  picture: /assets/img/miembros/profile-carlos.jpg
-  carrera: Cohorte '15 USB
+# - name: Carlos Sivira
+#   picture: /assets/img/miembros/profile-carlos.jpg
+#   carrera: Cohorte '15 USB
 
 - name: Isabella Capecchi
   picture: /assets/img/miembros/profile-isabella.jpg
