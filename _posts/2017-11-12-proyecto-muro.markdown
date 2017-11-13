@@ -22,7 +22,7 @@ __¿Cómo construyen el nuevo muro?__
 
 ![soldando]({{ site.url }}/assets/post_img/granPared/muronuevo.jpeg){:class="event-img"}
 
-racias a las donaciones y contribuciones de personas externas e internas a Oikos y a la Universidad Simón Bolívar, estamos cada vez más cerca de culminarlo. 
+Gracias a las donaciones y contribuciones de personas externas e internas a Oikos y a la Universidad Simón Bolívar, estamos cada vez más cerca de culminarlo. 
 
 ![soldando]({{ site.url }}/assets/post_img/granPared/trabajo.JPG){:class="event-img"}
 
