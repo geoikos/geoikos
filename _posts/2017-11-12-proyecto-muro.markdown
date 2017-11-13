@@ -1,37 +1,38 @@
 ---
 layout: post
-author: Verónica Machado
+author: Jorge Olivares
 title: "Proyecto Muro"
 date: 2017-11-12 18:15:00 -0400
 categories: blog
 ---
 
-Sabemos que existen muchas personas interesadas en saber más acerca del proyecto que el grupo está realizando para restaurar el rocódromo antiguo de la USB y cómo ha avanzado la construcción mismo. Por ello, en este post responderé varias preguntas sobre el proyecto, de manera que, si no conoces sobre nuestro proyecto, puedas informarte:
+Muchas personas nos han preguntado acerca del proyecto que estamos realizando para restaurar el rocódromo antiguo de la USB, y sobre cómo está avanzando la construcción del mismo. Por ello, en este post responderemos varias preguntas para que puedas conocerlo: 
 
 ![muro viejo]({{ site.url }}/assets/post_img/granPared/proyecto.jpeg){:class="event-img"}
 
 __¿Qué es La Gran Pared?__
 
-Es un proyecto ideado por miembros del grupo que toma forma en el año 2015. Busca restaurar el muro de escalada que se encuentra en el gimnasio de Universidad Simón Bolívar, el cual tiene una antigüedad de unos 27 años. Este muro deportivo se halla en un estado bastante deteriorado, razón por la cual es poco usado o conocido por la comunidad universitaria. Al momento de plantearse la restauración, se decide no quedarnos con la infraestructura vieja, sino realizar una remodelación completa.
+Es un proyecto ideado por miembros del grupo que toma forma en el año 2015. Busca restaurar el muro de escalada ubicado en el gimnasio de la Universidad Simón Bolívar. Cuenta con una antigüedad de al menos 27 años y se encuentra en un estado de deterioro, razón por la cual escalarlo representa un riesgo para la seguridad de los usuarios, siendo poco usado y conocido por la comunidad universitaria. Por esto, nos hemos planteado desechar la estructura actual y realizar una remodelación completa. 
 
 ![muro viejo]({{ site.url }}/assets/post_img/granPared/muroviejo.JPG){:class="event-img"}
 
-La agrupación suele realizar actividades que promuevan los deportes de aventura, pero el muro anterior se encontraba en condiciones terribles, siendo un riesgo para aquellas personas que querían escalar. Debido a esto, no podíamos utilizarlo durante eventos en la universidad. Como agrupación, queremos educar a más personas en el deporte de la escalada, pero necesitamos de espacios cercanos para hacerlo, puesto que no existen muchos rocódromos o gimnasios de escalada en la ciudad de Caracas, y esto limita notablemente la práctica del mismo.
+Como agrupación, queremos educar a más personas en el deporte de la escalada, recientemente aceptado como un deporte olímpico pero, para ello, necesitamos espacios cercanos y accesibles ya que no existe variedad de rocódromos o gimnasios de escalada en la ciudad de Caracas, limitando notablemente la práctica del mismo. 
 
 __¿Cómo construyen el nuevo muro?__
 
 ![soldando]({{ site.url }}/assets/post_img/granPared/muronuevo.jpeg){:class="event-img"}
 
-El muro se está construyendo gracias a las donaciones y contribuciones de personas externas e internas a Oikos y a la Universidad Simón Bolívar. 
+racias a las donaciones y contribuciones de personas externas e internas a Oikos y a la Universidad Simón Bolívar, estamos cada vez más cerca de culminarlo. 
 
 ![soldando]({{ site.url }}/assets/post_img/granPared/trabajo.JPG){:class="event-img"}
 
-El diseño fue realizado por el Prof. Gustavo Rodríguez de la USB, el cual también se está encargando de la supervisión y ayudando con la instalación. El montaje y armado de la estructura está siendo realizado por miembros de la agrupación, los cuales de manera voluntaria han dedicado horas de esfuerzo a este proyecto.
+El diseño fue realizado por el Prof. Gustavo Rodríguez de la USB quien se ha encargado de la supervisión y ayudado con la instalación. Así mismo, nuestros miembros, de manera voluntaria, están realizando el montaje y armado dedicando horas de esfuerzo a este proyecto.
 
 ![soldando]({{ site.url }}/assets/post_img/granPared/trabajo2.jpg){:class="event-img"}
 
 
 __¿Cómo puedo conocer más sobre el proyecto?__
 
-Si estas interesado en conocer más, puedes contactarnos a través de nuestras redes sociales, o ir directamente a la sede del grupo, la cual se encuentra en
-el edificio de Estudiantes, en la Universidad Simón Bolívar, Sede Sartenejas
+Si estás interesado en conocer más, puedes contactarnos a través de nuestras redes sociales, o ir directamente a la sede del grupo, ubicada en la planta baja de la Casa del Estudiante de la Universidad Simón Bolívar, Sede Sartenejas
+
+Fotos por [Jorge Olivares](https://wwww.instagram.com/jorgeolivaresp) y [Luis Carlos Marval](https://www.instagram.com/lcmarval/).
