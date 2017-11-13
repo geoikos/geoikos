@@ -1,0 +1,28 @@
+- picture: /assets/img/junta/profile-presidente.jpg
+  nombre: Valentina González
+  cargo: Presidente
+  instagram: https://www.instagram.com/niina_hood/
+  twitter: https://www.instagram.com/niina_hood/
+
+- picture: /assets/img/junta/profile-secretario.jpg
+  nombre: Jeraldine Aparicio
+  cargo: Secretaria
+  instagram: https://www.instagram.com/jeraldine12/
+
+- picture: /assets/img/junta/profile-tesorero.jpg
+  nombre: Katheryn Palacios
+  cargo: Tesorera
+  instagram: https://www.instagram.com/kathyppgc/
+  twitter: https://twitter.com/katheppgc
+
+- picture: /assets/img/junta/profile-dt.jpg
+  nombre: Esteban Camargo
+  cargo: Director Técnico
+  instagram: https://www.instagram.com/estebmaister/
+  twitter: https://twitter.com/Estebmaister
+
+- picture: /assets/img/junta/profile-equipo.jpg
+  nombre: Luis Carlos Marval
+  cargo: Cuarto de Equipo
+  instagram: https://www.instagram.com/lcmarval/
+  twitter: https://twitter.com/luiscamarval

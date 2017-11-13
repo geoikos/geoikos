@@ -14,80 +14,26 @@ title: Junta Directiva
 			</p>
 		</div>
 		<div class="cards">
+			{% for junta in site.data.junta %}
 			<div class="card corners">
-				<div class="card-img" id="img.presidente">
-					<img src="{{ site.url }}/assets/img/profile-presidente.jpg" alt="">
+				<div class="card-img">
+					<img src="{{ site.url }}/{{ junta.picture }}" alt="">
 				</div>
-				<div class="card-info" id="presidente">
-					<h3>Valentina González</h3>
+				<div class="card-info">
+					<h3>{{ junta.nombre }}</h3>
 					<p>
-						Presidente
+						{{ junta.cargo }}
 					</p>
 					<div class="sm sm1">
-						<a href="https://www.instagram.com/niina_hood/"><span class="icon-instagram"></span></a>
-						<a href="https://twitter.com/niina_apple/"><span class="icon-twitter"></span></a>
+						{% if junta.instagram %}
+							<a href="{{ junta.instagram }}"><span class="icon-instagram"></span></a>
+						{% endif %}
+						{% if junta.twitter %}
+							<a href="{{ junta.twitter }}"><span class="icon-twitter"></span></a>
+						{% endif %}
 					</div>
 				</div>
 			</div>
-			<div class="card corners">
-				<div class="card-img" id="img.secretario">
-					<img src="{{ site.url }}/assets/img/profile-secretario.jpg" alt="">
-				</div>
-				<div class="card-info" id="secretario">
-					<h3>Jeraldine Aparicio</h3>
-					<p>
-						Secretaria
-					</p>
-					<div class="sm sm1">
-						<a href="https://www.instagram.com/jeraldine12/"><span class="icon-instagram"></span></a>
-						<a href="https://www.facebook.com/jeral.aplucero"><span class="icon-facebook"></span></a>
-					</div>
-				</div>
-			</div>
-			<div class="card corners">
-				<div class="card-img" id="img.tesorero">
-					<img src="{{ site.url }}/assets/img/profile-tesorero.jpg" alt="">
-				</div>
-				<div class="card-info" id="tesorero">
-					<h3>Katheryn Palacios</h3>
-					<p>
-						Tesorera
-					</p>
-					<div class="sm sm1">
-						<a href="https://www.instagram.com/kathyppgc/"><span class="icon-instagram"></span></a>
-						<a href="https://twitter.com/katheppgc"><span class="icon-twitter"></span></a>
-					</div>
-				</div>
-			</div>
-			<div class="card corners">
-				<div class="card-img" id="img.directortecnico">
-					<img src="{{ site.url }}/assets/img/profile-dt.jpg" alt="">
-				</div>
-				<div class="card-info" id="directortecnico">
-					<h3>Esteban Camargo</h3>
-					<p>
-						Director Técnico
-					</p>
-					<div class="sm sm1">
-						<a href="https://www.instagram.com/estebmaister/"><span class="icon-instagram"></span></a>
-						<a href="https://twitter.com/Estebmaister"><span class="icon-twitter"></span></a>
-					</div>
-				</div>
-			</div>
-			<div class="card corners">
-				<div class="card-img" id="img.cuartodeequipo">
-					<img src="{{ site.url }}/assets/img/profile-equipo.jpg" alt="">
-				</div>
-				<div class="card-info" id="cuartodeequipo">
-					<h3>Luis Carlos Marval</h3>
-					<p>
-						Cuarto de Equipo
-					</p>
-					<div class="sm sm1">
-						<a href="https://www.instagram.com/lcmarval/"><span class="icon-instagram"></span></a>
-						<a href="https://twitter.com/luiscamarval"><span class="icon-twitter"></span></a>
-					</div>
-				</div>
-			</div>
+			{% endfor %}
 		</div>
 	</div>
