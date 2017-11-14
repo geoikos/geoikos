@@ -22,9 +22,9 @@
 #   picture: /assets/img/miembros/profile-rosalinda.jpg
 #   carrera: UCV
 
-# - name: Carlos Sivira
-#   picture: /assets/img/miembros/profile-carlos.jpg
-#   carrera: Cohorte '15 USB
+- name: Carlos Sivira
+  picture: /assets/img/miembros/profile-carlos.jpg
+  carrera: Cohorte '15 USB
 
 - name: Isabella Capecchi
   picture: /assets/img/miembros/profile-isabella.jpg

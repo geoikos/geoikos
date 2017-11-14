@@ -35,4 +35,4 @@ __¿Cómo puedo conocer más sobre el proyecto?__
 
 Si estás interesado en conocer más, puedes contactarnos a través de nuestras redes sociales, o ir directamente a la sede del grupo, ubicada en la planta baja de la Casa del Estudiante de la Universidad Simón Bolívar, Sede Sartenejas
 
-Fotos por [Jorge Olivares](https://wwww.instagram.com/jorgeolivaresp) y [Luis Carlos Marval](https://www.instagram.com/lcmarval/).
+Fotos por [Jorge Olivares](https://wwww.instagram.com/jorgeolivaresp/) y [Luis Carlos Marval](https://www.instagram.com/lcmarval/).

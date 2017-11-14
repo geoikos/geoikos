@@ -8,8 +8,8 @@ categories: eventos
 
 ![nueva]({{ site.url }}/assets/img/nuevo.jpg){:class="event-img"}
 
-El grupo busca nuevas manera de llevar los deportes de aventura a la comunidad universitaria, es por eso que actualmente nos encontramos en una
-restructuración de las plataformas web. A partir de ahora, podrás enterarte de nuestros próximos eventos y actividades a través de esta sección. 
+El grupo busca nuevas maneras de llevar los deportes de aventura a la comunidad universitaria, es por eso que actualmente nos encontramos en una
+restructuración de las plataformas web. A partir de ahora, podrás enterarte de nuestros próximos eventos y actividades a través de esta [sección]({{ site.url }}/blog.html). 
 
 Síguenos también en nuestras redes sociales
 
