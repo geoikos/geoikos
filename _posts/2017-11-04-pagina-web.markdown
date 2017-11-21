@@ -6,7 +6,7 @@ categories: eventos
 ---
 ¡El GEOikos esta estrenando nueva página web!
 
-![nueva]({{ site.url }}/assets/img/nuevo.jpg){:class="event-img"}
+![nueva]({{ site.url }}/assets/blog_img/nuevo.jpg){:class="event-img"}
 
 El grupo busca nuevas maneras de llevar los deportes de aventura a la comunidad universitaria, es por eso que actualmente nos encontramos en una
 restructuración de las plataformas web. A partir de ahora, podrás enterarte de nuestros próximos eventos y actividades a través de esta [sección]({{ site.url }}/blog.html). 
