@@ -26,10 +26,6 @@
   picture: /assets/img/miembros/profile-carlos.jpg
   carrera: Cohorte '15 USB
 
-- name: Isabella Capecchi
-  picture: /assets/img/miembros/profile-isabella.jpg
-  carrera: Cohorte '13 USB
-
 - name: Michael Sanchez
   picture: /assets/img/miembros/profile-michael.jpg
   carrera: Cohorte '09 USB
@@ -37,3 +33,11 @@
 - name: Orlando Perez
   picture: /assets/img/miembros/profile-orlando.jpg
   carrera: Cohorte '12 USB
+
+- name: Daniel Machado
+  picture: /assets/img/miembros/profile-machado.jpg
+  carrera: Cohorte '15 USB
+
+- name: Marcos Lerones
+  picture: /assets/img/miembros/profile-lerones.jpg
+  carrera: Cohorte 15' USB
