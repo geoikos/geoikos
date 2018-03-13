@@ -8,7 +8,10 @@ title: Inicio
 	 alt="">
 	<div class="hero hero-1" id="hero-index">
 		<div class="jumbotron corners">
-			<h1><span>Desconéctate</span><br>Explora<br>Descubre</h1>
+			<h1>
+				<span>Desconéctate</span>
+				<br>Explora
+				<br>Descubre</h1>
 		</div>
 	</div>
 </div>
@@ -21,14 +24,19 @@ title: Inicio
 			el GEO ha sido hogar de más de 2000 personas, ascendido más de 100 montañas y realizado más de 70 expediciones nacionales
 			e internacionales.
 		</p>
-		<a href="{{ site.url }}/cursos.html"><input type="button" class="btn blue corners" value="Conoce más"></a>
+		<a href="{{ site.url }}/cursos.html">
+			<input type="button" class="btn blue corners" value="Conoce más">
+		</a>
 	</div>
 </section>
 <section class="events">
-	<div class="wrap">
+	<div class="twitter">
+		<a class="twitter-timeline" data-width="90%" data-height="750" href="https://twitter.com/OikosUSB?ref_src=twsrc%5Etfw">Tweets de OikosUSB</a>
+		<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
+	<div class="wrap-twitter">
 		<h2>Eventos y Noticias</h2>
-		{% for post in site.posts %} {% if post.categories contains 'eventos' %} 
-		{% include evento_item.html %} 
-		{% endif %} {% endfor %}
+		{% for post in site.posts %} {% if post.categories contains 'eventos' %} {% include evento_item.html %} {% endif %} {% endfor
+		%}
 	</div>
 </section>

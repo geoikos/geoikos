@@ -685,6 +685,41 @@ footer .toe span a:hover {
   }
 }
 
+
+.events {
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
+.events .twitter {
+  width: 35%;
+  float: left;
+  height: 100%;
+  display: flex;
+} 
+
+.events .wrap-twitter {
+  margin-left: 35%;
+  padding-left: 1em;
+}
+
+a.twitter-timeline {
+  /* Text */
+  margin-bottom: 18px;
+  font: normal 1em #0b1642, "Raleway", sans-serif;
+  white-space: nowrap;
+}
+
+a.twitter-timeline:hover,
+a.twitter-timeline:focus {
+  background-color: #dedede;
+}
+
+a.twitter-timeline:focus {
+  outline: none;
+  border-color: #0089cb;
+}
+
 /*Articles and Posts*/
 
 .events .wrap{
