@@ -690,6 +690,11 @@ events {
   margin: auto;
   padding: 1.5em;
 }
+
+.events .wrap {
+  padding: 2em 2em;
+}
+
 .events .twitter {
   width: 35%;
   float: left;
@@ -701,6 +706,28 @@ events {
 .events .wrap-twitter {
   margin-left: 35%;
   padding-left: 1em;
+}
+
+
+/* Media Query */
+@media screen and (max-width: 500px) {
+  #flex { display: flex; flex-direction: column; }
+  .events {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  .events .twitter {
+   width: 100%;
+   order: 2;
+ }
+
+ .events .wrap-twitter {
+   padding: auto;
+   width: 100%;
+   margin-left: auto;
+   order: 1;
+ }
 }
 
 a.twitter-timeline {
@@ -720,11 +747,7 @@ a.twitter-timeline:focus {
   border-color: #0089cb;
 }
 
-/*Articles and Posts*/
 
-.events .wrap{
-  padding: 2em 2em;
-}
 article{
   margin: auto;
   padding: 2em 2em 4em 2em;
