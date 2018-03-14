@@ -688,13 +688,14 @@ footer .toe span a:hover {
 events {
   width: 90%;
   margin: auto;
-  padding: 10px;
+  padding: 1.5em;
 }
 .events .twitter {
   width: 35%;
   float: left;
   height: 100%;
   display: flex;
+  padding-left: 1em;
 } 
 
 .events .wrap-twitter {
