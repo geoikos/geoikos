@@ -14,6 +14,6 @@ En este Oikeano Show  en particular se establecieron categorías como Oikeano du
 
 También existieron momentos emotivos con Oikeano internacional, donde los miembros de Oikos que se encuentran fuera del país hicieron reír y llorar a los presentes, siempre haciendo recordar lo afortunados que somos de pertenecer a una agrupación como esta, donde los recuerdos compartidos son invaluables y las personas que uno conoce inolvidables.
 
-![oikeanoShow]({{ site.url }}/assets/post_img/oikeanoShow/oikeanoShow.jpg){:class="big-img"}
+![oikeanoShow](http://gdurl.com/B7eX){:class="big-img"}
 
 Autora: Paola Proietti

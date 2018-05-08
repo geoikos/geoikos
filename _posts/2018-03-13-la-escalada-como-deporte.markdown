@@ -5,7 +5,7 @@ title: "¿Quieres entrenar tu mente? La escalada es el deporte ideal. "
 date: 2018-03-13 20:00:00 -0400
 categories: blog
 ---
-![escalando]({{ site.url }}/assets/post_img/escaladaDeporte/escalando.jpg){:class="big-img"}
+![escalando](http://gdurl.com/CQi3h){:class="big-img"}
 
 ¡Estás loco! ¿Cómo puedes hacer? ¿Necesitas mucha fuerza?  Son frases que los escaladores normalmente escuchamos de personas ajenas al deporte, quienes dan crédito solo a la fuerza que puedas tener en tus brazos, pero para la práctica de esta disciplina, se necesita más que fuerza.
 

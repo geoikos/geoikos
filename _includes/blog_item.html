@@ -6,6 +6,11 @@
 	</div>
 	</div>
 	<div class="post-content">
-		{{ post.content }}
+		{{ post.excerpt }}
+		{% if post.excerpt != post.content %}
+		<div class="blog-back">
+			<a href="{{ sire.url }}{{ post.url }}"><input type="button" class="btn blue corners" value="Continuar Leyendo"></a>
+		</div>
+		{% endif %}	
 	</div>
 </article>

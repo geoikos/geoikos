@@ -11,9 +11,11 @@ title: Blogs y Noticias
 		<div class="wrap content-wrap">
 			<h1 class="title">Blog</h1>
 			<div class="blog-content corners">
-					{% for post in site.posts %} {% if post.categories contains 'blog' %}
-					{% include blog_item.html %} 
-					{% endif %} {% endfor %}
+					{% for post in site.posts %} 
+					{% if post.categories contains 'blog' %}
+					{% include blog_item.html %}
+					{% endif %} 
+					{% endfor %}
 			</div>
 		</div>
 </div>

@@ -18,7 +18,7 @@ email: oikos@usb.ve
 description: >- # this means to ignore newlines until "baseurl:"
   Página Web del Grupo Excursionista Oikos de la Universidad Simón Bolívar
 baseurl: ""
-url: "https://geoikos.github.io/geoikos" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://geoikos.github.io/geoikos" #http://localhost:8080 # # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: oikosUSB
 instagram_username:  oikosUSB
 
@@ -29,6 +29,7 @@ include: ['_pages']
 plugins:
   - jekyll-feed
 permalink: /:title/
+excerpt_separator: <!--more-->
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
