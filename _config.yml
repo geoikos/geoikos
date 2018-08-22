@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: GEOikosUSB
 email: oikos@usb.ve
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   Página Web del Grupo Excursionista Oikos de la Universidad Simón Bolívar
 baseurl: ""
 url: "https://geoikos.github.io/geoikos" #http://localhost:8080 # # the base hostname & protocol for your site, e.g. http://example.com

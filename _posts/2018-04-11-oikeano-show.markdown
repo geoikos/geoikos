@@ -3,7 +3,7 @@ layout: post
 author: Paola Proietti
 title:  "Oikeano Show"
 date:   2018-04-11 15:00:00 -0400
-categories: [eventos, blog]
+categories: blog
 ---
 
 Para algunos, Oikos es solo esa puerta azul al final de estudiantes o ese grupo de personas que, con un poco de locura, se la pasan subiendo montañas, pero todo aquel que pertenece o ha pertenecido a esta agrupación ve en ella una familia con la cuál contar, y como en toda familia, existen tradiciones, siendo una de las más nuevas pero no menos divertida el OIKEANO SHOW, el cual celebró el pasado 23 de Marzo su tercera edición.
