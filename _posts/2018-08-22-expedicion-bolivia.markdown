@@ -37,12 +37,19 @@ Con la esperanza y la determinación de lograr todas esas metas, hemos mantenido
 A continuación quiero compartirles a los integrantes de éste increíble sueño:
 
 Luis Eman (USB)
+
 Jorge Olivares (USB)
+
 Daniel Machado (USB)
+
 Michael Sánchez (USB)
+
 Francisco Marcos (USB)
+
 Katheryn Palacios (USB)
+
 Verónica Machado (UCAB)
+
 y mi persona Esteban Camargo (USB)
 
 Todos miembros del GEO, dispuestos a compartir los valores que hemos cultivado como oikeanos con el resto del mundo, y traer todas las experiencias que podamos adquirir en esta aventura con el resto de nuestra familia oikeana, y compañeros excursionistas de toda Venezuela.
