@@ -40,4 +40,16 @@
 
 - name: Marcos Lerones
   picture: /assets/img/miembros/profile-lerones.jpg
-  carrera: Cohorte 15' USB
+  carrera: Cohorte '15 USB
+
+- name: Daniela Torres
+  picture: /assets/img/miembros/profile-daniela.jpg
+  carrera: UNIMET
+
+- name: Nicolas Jaua
+  picture: /assets/img/miembros/profile-nico.jpg
+  carrera: Cohorte '15 USB
+
+- name: Paola Proietti
+  picture: /assets/img/miembros/profile-pao.jpg
+  carrera: UCAB
