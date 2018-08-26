@@ -3,7 +3,7 @@ layout: post
 author: Esteban Camargo
 title:  "Expedición Bolivia"
 date:   2018-07-24 23:50:00 -0400
-categories: [blog, eventos]
+categories: blog
 ---
 
 Buenas noches Oikeanos,

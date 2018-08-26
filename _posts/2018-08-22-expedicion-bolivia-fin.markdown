@@ -11,4 +11,4 @@ Hoy, 22 de agosto, a las 10AM, tres de nuestros integrantes alcanzaron la cumbre
 
 ![Cumbre Sajama](http://gdurl.com/8ixm){:class="big-img"}
 
-Nos brinda una inmensa satisfacción la representación de nuestros miembros en las montañas latinoamericanas. ¡En los próximos días estaremos publicando más sobre este increíble viaje, contado por los propios integrantes!
+Nos brinda una inmensa satisfacción la representación de nuestros miembros en las montañas latinoamericanas. ¡Hemos publicado más información en el __[blog]({{ site.baseurl}} {% link _posts/2018-08-25-expedicion-bolivia-resumen.markdown %})__ sobre este increíble viaje, contado por los propios integrantes!
