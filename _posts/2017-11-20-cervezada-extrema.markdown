@@ -6,7 +6,7 @@ date:   2017-11-20 20:30:00 -0400
 categories: eventos, blog
 ---
 
-![cervezada](http://gdurl.com/Fkvf){:class="big-img"}
+![cervezada](https://gdurl.com/Fkvf){:class="big-img"}
 
 Éste viernes 24/11 no puedes perderte la tradicional Cervezada Extrema, un fiesta profondos organizada por las agrupaciones de deportes extremos de la USB donde te traemos concursos retadores con premios en birras que disfrutarás al máximo.
 

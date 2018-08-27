@@ -56,4 +56,4 @@ Todos miembros del GEO, dispuestos a compartir los valores que hemos cultivado c
 
 Esperando poder contar con sus buenos deseos, nos despedimos.
 
-![Logo Bolivia](http://gdurl.com/A8OX){:class="big-img"}
+![Logo Bolivia](https://gdurl.com/A8OX){:class="big-img"}

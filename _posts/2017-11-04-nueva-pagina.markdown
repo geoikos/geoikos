@@ -7,7 +7,7 @@ categories: blog
 ---
 ¡El GEOikos esta estrenando nueva página web!
 
-![nueva](http://gdurl.com/YnuK){:class="event-img"}
+![nueva](https://gdurl.com/YnuK){:class="event-img"}
 
 El grupo busca nuevas maneras de llevar los deportes de aventura a la comunidad universitaria, es por eso que actualmente nos encontramos en una
 restructuración de las plataformas web. A partir de ahora, podrás enterarte de nuestros próximos eventos y actividades a través de esta sección. 

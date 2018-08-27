@@ -12,7 +12,7 @@ Seguro esperan que este cuento termine con final feliz, que logramos la cumbre y
 
 Luego de haber fallado en abril del 2017; Verónica Machado, Jorge Olivares, Francisco Marcos, Michael Sánchez y Valentina (Nina) González, se prepararon, tal vez mejor, para sacarse esa espina e intentarlo nuevamente en abril del 2018. Esta vez, volviendo con refuerzos de Daniel Pelayo, Vidal González y Orlando Pérez. Lamentablemente, Pelayo no pudo viajar con nosotros por motivos alternos. Sin embargo, fue partícipe importante ya que era el único que ya había hecho y logrado la escalada del pico años atrás. Sus tips, fotos y videos fueron de gran ayuda para dilucidar mejor a lo que nos podíamos enfrentar (sólo que no sabíamos que, en realidad, nos encontraríamos unas condiciones temporales bastante diferentes a las suyas). ¡Mas siempre tuvimos a Daniel presente en nuestro viaje!
 
-![Los Nevados](http://gdurl.com/28C6){:class="big-img"}
+![Los Nevados](https://gdurl.com/28C6){:class="big-img"}
 
 <!--more-->
 
@@ -20,13 +20,13 @@ Ahora sí, vamos a lo que vinimos. Este viaje podría llamarse “una serie de e
 
 Aceptamos nuestro destino y “entrompamos” hacia Los Nevados, pueblo merideño alejado de absolutamente todo, donde se inicia el trekking que conduce a Pico Espejo y luego al campamento base Albornoz. Arrancando exactamente el día del cumpleaños de Francisco, nos tomó dos días llegar al campamento base; entre lumbagos, maníes y fruta deshidratada, cansancio, frío, morrenas y rocas, niebla, alguna desviada, viendo el sol por última vez el primer día de camino y pare usted de contar. Aún así, los ánimos para hacer cumbre seguían por las “alturas”, literalmente. Habiendo visto, como esperábamos pero no queríamos algunos, esa imponente pared decorada de blanco; o sea, ¡nevada hasta que ya! Habernos llevado crampones y piolets no fue una decisión en vano.
 
-![Trekking](http://gdurl.com/EJko){:class="big-img"}
+![Trekking](https://gdurl.com/EJko){:class="big-img"}
 
 ¡Llegó el momento! Levantándonos aproximadamente a las 4 am y saliendo aproximadamente a las 5.30 am (bajo la premisa de tener luz al llegar a la pared) arrancamos a llevar a cabo nuestra empresa. Caminamos en la oscuridad iluminados por las linternas, llegamos a lo que pensamos era el inicio de la ruta, pero no dilucidamos nada: no veíamos las supuestas reuniones, todo se veía muy parecido, la nieve hacía las cosas confusas y el sol nada que empezaba a hacer su trabajo. 
 
 En el rush de la situación, Jorge y Vidal comenzaron a subir por donde les parecía semi-lógico que fuese la ruta, pero no aparecían las reuniones y se volvía cada vez más peligroso el “free solo” que estaban haciendo. Aparte de esto, comenzó a embargarnos cierta preocupación; además de no conseguir la ruta correcta, las condiciones temporales empeoraban y el frío iba a pegar fuertemente. Entonces, tres de nosotros decidimos bajar (yo con fuertes sentimientos encontrados, pero con la sensación de que no era el momento); y los demás se quedaron un poco más, siempre en comunicación por los walkie-talkies. Poco después nos avisaron que desistirían de intentarlo ese día también por no conseguir las ¡tan ansiadas reuniones!
 
-![En el camino](http://gdurl.com/UJsb){:class="big-img"}
+![En el camino](https://gdurl.com/UJsb){:class="big-img"}
 
 Al regresar al campamento, encontramos el espectáculo de carpas forradas totalmente de nieve, el piso congelado y pájaros semilleros (Phrygilus unicolor, para los entusiastas de las aves como yo) revoloteando en los restos de comida de la noche anterior. Y a lo lejos, pegaditos aún a la pared, veíamos a nuestros compañeros que se habían quedado buscando dónde carrizo (lamento el lenguaje, pero es inevitable) estaban esos anclajes.
 
@@ -46,13 +46,13 @@ Alargando el hecho de empezar a bajar, comenzamos a discutir por los radios. La 
 
 Se dice sencillo, pero ahora teníamos que seguir calándonos ese frío, ya debilitados, pero de bajada. Manos heladas, cuerdas mojadas, rapeles congelados. Físicamente fue también fuerte bajar. pero en nuestras mentes quedaba cierta satisfacción de lo que habíamos hecho y de lo que estábamos haciendo: un Bolívar en invernal.
 
-![Rapelando](http://gdurl.com/EThM){:class="big-img"}
+![Rapelando](https://gdurl.com/EThM){:class="big-img"}
 
 La oportunidad de hacer (o intentar) El Bolívar en invernal, hoy en día, es una experiencia muy valiosa. En Venezuela sólo queda un glaciar real (Pico Humboldt), y que ya ha ido mermando poco a poco; no sé si considerar el intermitente glaciar de la cara norte del Bolívar en este conteo. Volviendo al punto, estos siete montañistas y escaladores en proyección tuvimos ese chance de aprender, en nuestro propio país, lo que puede significar hacer montañismo con un nivel mayor al que normalmente tendríamos acceso.
     
 Sin más, nos disponíamos a bajar el siguiente día. Satisfechos por la experiencia. Debíamos caminar ahora hasta Casa de Pedro (destino que requería una muy larga caminata) y para nuestra sorpresa no tan sorpresa el tiempo empeoró mucho más. La caminata a Pico Espejo, que no tiene gran complicación y no lleva mucho tiempo, se nos hizo una Odisea eterna (y para mí, al menos, tortuosa). Y llegando a la estación del teleférico de P. Espejo, nos dirigimos con lo que nos quedaba de fuerzas a pedir a los hombres del teleférico “por piedad” que si era posible bajar en las cabinas de carga del teleférico.
 
-![Pico Espejo](http://gdurl.com/Aksa){:class="big-img"}
+![Pico Espejo](https://gdurl.com/Aksa){:class="big-img"}
 
 Siempre estaré infinitamente agradecida con los merideños que nos atendieron en la estación. Desde mi punto de vista, si no nos hubiesen bajado no sé qué hubiese pasado (sueno dramática, pero es lo que creo). En su amabilidad, nos dieron acceso a un pequeño refugio al lado de la estación, llamado “El Suizo” y en la mañana siguiente, habiendo pasado una nevada intensa, nos dejaron maravillosamente en plena Plaza Las Heroínas, pleno centro de Mérida.
 
