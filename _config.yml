@@ -17,8 +17,8 @@ title: GEOikosUSB
 email: oikos@usb.ve
 description: # this means to ignore newlines until "baseurl:"
   Página Web del Grupo Excursionista Oikos de la Universidad Simón Bolívar
-baseurl: "https://geoikos.github.io/geoikos"
-url: "https://geoikos.github.io/geoikos" #"http://localhost:8080" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "www.geoikos.com.ve" #"http://localhost:8080" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: oikosUSB
 instagram_username:  oikosUSB
 
