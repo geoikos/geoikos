@@ -21,6 +21,14 @@ title: Miembros
 					<p>
 						{{ miembro.carrera }}
 					</p>
+					<div class="sm sm1">
+						{% if miembro.instagram %}
+							<a href="{{ miembro.instagram }}"><span class="icon-instagram"></span></a>
+						{% endif %}
+						{% if miembro.twitter %}
+							<a href="{{ miembro.twitter }}"><span class="icon-twitter"></span></a>
+						{% endif %}
+					</div>
 				</div>
 			</div>
 		{% endfor %}
