@@ -9,6 +9,7 @@
 - name: Jorge Olivares
   picture: /assets/img/miembros/profile-jorgeo.jpg
   carrera: Cohorte '10 USB
+  instagram: https://www.instagram.com/jorgeolivaresp/
 
 - name: Susana Andrade
   picture: /assets/img/miembros/profile-susana.jpg
@@ -17,6 +18,8 @@
 - name: Francisco Marcos
   picture: /assets/img/miembros/profile-francisco.jpg
   carrera: Cohorte '11 USB
+  instagram: https://www.instagram.com/wrancisco/
+  twitter: https://twitter.com/wrancisco
 
 #- name: Rosalinda Rocca
 #  picture: /assets/img/miembros/profile-rosalinda.jpg
@@ -59,14 +62,14 @@
   picture: /assets/img/miembros/profile-andres.jpg
   carrera: Cohorte '14 USB
 
-- picture: /assets/img/miembros/profile-luiski.jpg
-  name: Luis Carlos Marval
+- name: Luis Carlos Marval
+  picture: /assets/img/miembros/profile-luiski.jpg
   carrera: Cohorte '12 USB
   instagram: https://www.instagram.com/lcmarval/
   twitter: https://twitter.com/luiscamarval
 
-- picture: /assets/img/miembros/profile-kathy.jpg
-  name: Katheryn Palacios
+- name: Katheryn Palacios
+  picture: /assets/img/miembros/profile-kathy.jpg
   carrera: Cohorte '13 USB
   instagram: https://www.instagram.com/kathyppgc/
   twitter: https://twitter.com/katheppgc
