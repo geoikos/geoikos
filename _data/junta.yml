@@ -1,23 +1,22 @@
 - picture: /assets/img/junta/profile-presidente.jpg
-  nombre: Esteban Camargo
-  cargo: Presidente
-  instagram: https://www.instagram.com/estebmaister/
-  twitter: https://twitter.com/Estebmaister
-
-- picture: /assets/img/junta/profile-secretario.jpg
   nombre: Daniel Machado
-  cargo: Secretario
+  cargo: Presidente
 
-- picture: /assets/img/junta/profile-tesoreroo.jpg
-  nombre: Nicolas Jaua
+- picture: /assets/img/junta/profile-secretario.png
+  nombre: Ana Lerones
+  cargo: Secretaria
+
+- picture: /assets/img/junta/profile-tesorero.jpg
+  nombre: Marcos Lerones
   cargo: Tesorero
-  instagram: https://www.instagram.com/nicojaua/
+  instagram: https://www.instagram.com/marcosjlr/
 
 - picture: /assets/img/junta/profile-dt.jpg
-  nombre: Orlando Perez
+  nombre: Andrés Chacón
   cargo: Director Técnico
 
-- picture: /assets/img/junta/profile-equipoo.jpg
-  nombre:  Jeraldine Aparicio
+- picture: /assets/img/junta/profile-equipo.jpg
+  nombre: Katheryn Palacios
   cargo: Cuarto de Equipo
-  instagram: https://www.instagram.com/jeraldine12/
+  instagram: https://www.instagram.com/kathyppgc/
+  twitter: https://twitter.com/katheppgc

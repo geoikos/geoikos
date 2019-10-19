@@ -21,6 +21,14 @@ title: Miembros Honorarios
 					<p>
 						{{ honorario.carrera }}
 					</p>
+					<div class="sm sm1">
+						{% if honorario.instagram %}
+							<a href="{{ honorario.instagram }}"><span class="icon-instagram"></span></a>
+						{% endif %}
+						{% if honorario.twitter %}
+							<a href="{{ honorario.twitter }}"><span class="icon-twitter"></span></a>
+						{% endif %}
+					</div>
 				</div>
 			</div>
 		{% endfor %}
